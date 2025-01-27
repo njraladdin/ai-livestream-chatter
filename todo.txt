@@ -1,5 +1,0 @@
-
-make ai push messages in object.S add properties like fumor level, relevance level etc then filter out messages; , done 
-
-
-make browser module, where we open browser adn navigate to kick. if browser laready opened (in debug mode) then just navigate to kick.
