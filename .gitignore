@@ -1,0 +1,6 @@
+test_input/
+test/
+__pycache__/
+*.wav 
+.env
+debug_input/
